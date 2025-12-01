@@ -34,8 +34,15 @@ Instead of a single “chatbot”, the system is a **collaboration of specialize
 ---
 
 
+## 🧱 Architecture
+
+
+<img width="1100" height="600" alt="workflow" src="https://github.com/user-attachments/assets/d73fc8e3-90b1-4d95-96ca-d1d83d10b9fb" />
+
+
 Key idea:  
 👉 **LLM is not doing everything** — it is **orchestrating tools and specialists**.
+
 
 ---
 
